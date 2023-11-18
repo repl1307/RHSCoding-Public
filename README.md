@@ -1,2 +1,2 @@
 # RHSCoding-Public
-The RHS Programming Club's website. Go to rhscoding.onrender.com
+The RHS Programming Club's website. Go to https://rhscoding.onrender.com
