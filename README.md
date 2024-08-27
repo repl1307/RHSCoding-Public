@@ -13,8 +13,8 @@ Project cover images are stored in Google Drive using a service account and the 
 ## ReCaptcha Integration
 In order to sign in, admins must pass a captcha verification test, usually done in the background, although sometimes that annoying image select thing happens 🤷.
 
-# Tutorials
+## Tutorials
 Utilizing Markdown syntax, which is sanitized on the server, admins can create useful tutorials to educate any users.
 
-# Bcrypt Integration
+## Bcrypt Integration
 Admins have their login information securely stored utilizing ```bcrypt``` for a one-way hash.
